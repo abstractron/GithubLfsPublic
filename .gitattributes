@@ -1,0 +1,2 @@
+Assets/Scenes/*.unity filter=lfs diff=lfs merge=lfs -text
+Assets/Sounds/**/*.mp3 filter=lfs diff=lfs merge=lfs -text
